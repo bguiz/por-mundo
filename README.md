@@ -24,6 +24,17 @@ For Earth
 - Reach a 3.5% penetration rate in in as many regions as possible around
   the world
 
+## Actions
+
+All actions may be found within the `actions` directory of this project.
+
+The baseline number of points for each action is based on a proportion
+of net CO2e that the action would be equivalent to.
+However, note that there may also be bonus points, which are variable,
+and not necessarily tied to particular actions.
+Thus the number of points earned by a user for taking, verifying, or sharing
+an action can vary based on context.
+
 ## Licence
 
 GPL-3.0
