@@ -13,6 +13,17 @@ For Earth
     where "regular people" means those who do not own/ control a corporation
     or otherwise have access to a lot of capital and resources
 
+## Desired outcomes
+
+- Foster an active user base of users who
+  - Care about Earth, and want to mitigate or reverse the damage that we have done to it
+  - Are willing to take action themselves on a weekly basis
+  - Share their actions beyond the scope of this system,
+    e.g., on social media
+- Create "influencers" or ambassadors for people who do things for the earth
+- Reach a 3.5% penetration rate in in as many regions as possible around
+  the world
+
 ## Licence
 
 GPL-3.0
