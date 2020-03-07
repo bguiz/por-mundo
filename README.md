@@ -35,6 +35,10 @@ and not necessarily tied to particular actions.
 Thus the number of points earned by a user for taking, verifying, or sharing
 an action can vary based on context.
 
+## Business design
+
+- [Pain points and value proposition](./value-proposition.md)
+
 ## References
 
 - [How people came to believe that individual choices could save the Earth](https://grist.org/climate/how-people-came-to-believe-that-individual-choices-could-save-the-earth/)
